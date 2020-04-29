@@ -1,0 +1,23 @@
+{
+  "name": "new_block",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blockchain.info": "^2.12.1",
+    "crypto-js": "^4.0.0",
+    "merkletreejs": "^0.1.11",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.2"
+  },
+  "devDependencies": {
+    "merkle-tree": "^1.0.5",
+    "sha256": "^0.2.0"
+  },
+  "description": ""
+}
